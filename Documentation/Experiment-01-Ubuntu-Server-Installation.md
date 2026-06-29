@@ -67,11 +67,13 @@ The OpenSSH Server package was installed during the Ubuntu Server installation.
 
 Installing OpenSSH allows remote administration of the server using encrypted SSH connections. This will enable future experiments where the server is managed remotely from other virtual machines, such as the Kali Linux VM.
 
+--- 
+
 ## Installation Complete
 
 The Ubuntu Server installation completed successfully without any critical errors.
 
-
+---
 
 ## Evidence
 
@@ -85,6 +87,8 @@ The Ubuntu Server installation completed successfully without any critical error
 | installation-complete.png | Successful installation       |
 | first-login.png           | First successful login        |
 
+---
+
 ## Problems Encountered
 
 No critical issues were encountered during the installation process.
@@ -95,6 +99,7 @@ Minor decisions included:
 - Deciding whether to install OpenSSH during setup.
 
 These were resolved by selecting a standard ext4 partition layout and enabling OpenSSH for future remote administration.
+
 ---
 
 ## Lessons Learned
@@ -104,6 +109,7 @@ These were resolved by selecting a standard ext4 partition layout and enabling O
 - OpenSSH enables secure remote administration of Linux systems.
 - Proper documentation helps create a repeatable installation process.
 
+---
 
 ## Verification
 
@@ -114,12 +120,16 @@ The installation was considered successful after:
 - Login using the created user account succeeded.
 - The OpenSSH package was installed.
 
+---
+
 ## Next Steps
 
 - Update the operating system.
 - Verify internet connectivity.
 - Learn basic Linux commands.
 - Configure SSH access.
+
+---
 
 ## Skills Practiced
 
@@ -132,6 +142,8 @@ The installation was considered successful after:
 - Git
 - GitHub
 - Technical Documentation
+
+---
 
 ## Project Repository Management
 
