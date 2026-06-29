@@ -71,13 +71,7 @@ Installing OpenSSH allows remote administration of the server using encrypted SS
 
 The Ubuntu Server installation completed successfully without any critical errors.
 
-### Evidence
 
-**Screenshot:** `installation-complete.png`
-
-The installer successfully configured the operating system, installed the OpenSSH Server package, and prepared the virtual machine for its first boot.
-
-## Evidence
 
 ## Evidence
 
@@ -135,4 +129,27 @@ The installation was considered successful after:
 - Storage Configuration
 - Networking
 - SSH
-- Documentation
+- Git
+- GitHub
+- Technical Documentation
+
+## Project Repository Management
+
+### GitHub Repository Configuration
+
+Successfully configured Git to use the correct GitHub account for this project.
+
+### Actions Performed
+- Connected the local Git repository to the remote GitHub repository.
+- Updated the Git authentication credentials to use the correct GitHub account.
+- Verified that commits and pushes were successfully uploaded to the intended GitHub repository.
+
+### Repository
+
+GitHub Repository:
+https://github.com/rhavn/Cybersecurity-Home-Lab
+
+### Why This Matters
+
+Correct Git configuration ensures that all commits are associated with the appropriate GitHub account, providing an accurate contribution history and maintaining a professional portfolio.
+
