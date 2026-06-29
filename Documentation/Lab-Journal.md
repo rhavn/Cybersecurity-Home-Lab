@@ -37,22 +37,25 @@ This project documents my journey of building a cybersecurity home lab using Ora
 
 ---
 
-# Session Log
+# Progress Log
 
-## Session 1
+## Experiment 01 — Ubuntu Server Installation
 
-**Date:**
+**Date:** June 29, 2026
 
-**Goal:**
-Create the project structure and prepare the documentation.
+**Status:** ✅ Completed
 
-**Tasks Completed**
-- Created project folders
-- Initialized Git repository
-- Started documentation
+### Summary
 
-**Problems Encountered**
-- None
+Successfully deployed an Ubuntu Server virtual machine using Oracle VirtualBox. Configured networking with NAT, installed OpenSSH Server, documented the installation process, and organized screenshots for future reference.
 
-**Lessons Learned**
-Documentation is an important part of technical projects because it records both successes and troubleshooting steps.
+### Skills Practiced
+
+- Virtualization
+- Linux
+- Ubuntu Server
+- VirtualBox
+- Networking (NAT)
+- SSH
+- Technical Documentation
+- Git
