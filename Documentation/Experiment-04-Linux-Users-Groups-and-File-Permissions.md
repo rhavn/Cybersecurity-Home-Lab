@@ -243,3 +243,4 @@ Only the file owner or the root user can modify a file's permissions. File owner
 - Understand the difference between symbolic and numeric permission notation.
 - Explore special permissions such as **SUID**, **SGID**, and the **Sticky Bit**.
 - Configure SSH authentication using public and private keys.
+

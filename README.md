@@ -40,12 +40,12 @@ The purpose of this project is to document each experiment, troubleshoot real-wo
 - ✅ Experiment 03 – Linux File System and File Management
 - ✅ Experiment 04 – Linux Users, Groups, and File Permissions
 - ✅ Experiment 05 – SSH Remote Access
+- ✅ Experiment 06 – Apache Web Server Deployment
 
 ---
 
 ## Planned Experiments
 
-- ⏳ Experiment 06 – Apache Web Server Deployment
 - ⏳ Experiment 07 – Kali Linux Installation
 - ⏳ Experiment 08 – VirtualBox Network Configuration
 - ⏳ Experiment 09 – Deploying DVWA (Damn Vulnerable Web Application)
