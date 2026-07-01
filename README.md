@@ -1,8 +1,8 @@
 # Cybersecurity Home Lab
 
-A hands-on cybersecurity home lab built using Oracle VirtualBox to develop practical skills in Linux administration, networking, virtualization, and system security.
+A hands-on cybersecurity home lab built using Oracle VirtualBox to develop practical skills in Linux administration, networking, virtualization, and cybersecurity.
 
-The purpose of this project is to document each experiment, troubleshoot real-world issues, and build a portfolio demonstrating practical cybersecurity knowledge.
+The purpose of this project is to document each experiment, troubleshoot real-world issues, and build a portfolio demonstrating practical cybersecurity knowledge through hands-on practice.
 
 ---
 
@@ -14,7 +14,8 @@ The purpose of this project is to document each experiment, troubleshoot real-wo
 - Configure and manage Linux services
 - Build a secure remote administration environment
 - Deploy and manage web services
-- Prepare for cybersecurity penetration testing
+- Perform network reconnaissance
+- Prepare for penetration testing
 - Maintain professional technical documentation
 
 ---
@@ -29,7 +30,7 @@ The purpose of this project is to document each experiment, troubleshoot real-wo
 ### Virtual Machines
 
 - Ubuntu Server 26.04 LTS
-- Kali Linux *(Planned)*
+- Kali Linux
 
 ---
 
@@ -41,33 +42,36 @@ The purpose of this project is to document each experiment, troubleshoot real-wo
 - ✅ Experiment 04 – Linux Users, Groups, and File Permissions
 - ✅ Experiment 05 – SSH Remote Access
 - ✅ Experiment 06 – Apache Web Server Deployment
-- ✅ Experiment 07 – Kali Linux Installation
-  
+- ✅ Experiment 07 – Kali Linux Installation and Lab Network Configuration
+- ✅ Experiment 08 – Network Reconnaissance with Nmap
+
 ---
 
 ## Planned Experiments
 
-- ⏳ Experiment 08 – VirtualBox Network Configuration
 - ⏳ Experiment 09 – Deploying DVWA (Damn Vulnerable Web Application)
-- ⏳ Experiment 10 – Nmap Network Scanning
-- ⏳ Experiment 11 – Nikto Web Server Scanning
-- ⏳ Experiment 12 – Burp Suite Web Proxy
-- ⏳ Experiment 13 – SQL Injection Fundamentals
-- ⏳ Experiment 14 – Brute Force Testing
-- ⏳ Experiment 15 – Linux Log Analysis
-- ⏳ Experiment 16 – Firewall Configuration (UFW)
-- ⏳ Experiment 17 – SSH Key Authentication
-- ⏳ Experiment 18 – Basic Bash Scripting
+- ⏳ Experiment 10 – Nikto Web Server Scanning
+- ⏳ Experiment 11 – Burp Suite Web Proxy
+- ⏳ Experiment 12 – SQL Injection Fundamentals
+- ⏳ Experiment 13 – Brute Force Testing
+- ⏳ Experiment 14 – Linux Log Analysis
+- ⏳ Experiment 15 – Firewall Configuration (UFW)
+- ⏳ Experiment 16 – SSH Key Authentication
+- ⏳ Experiment 17 – Basic Bash Scripting
+- ⏳ Experiment 18 – Linux Service Hardening
+- ⏳ Experiment 19 – Metasploit Basics
+- ⏳ Experiment 20 – Basic Web Application Security Assessment
 
 ---
 
 ## Technologies Used
 
 - Oracle VirtualBox
-- Ubuntu Server
-- Kali Linux *(Planned)*
+- Ubuntu Server 26.04 LTS
+- Kali Linux
 - OpenSSH
 - Apache HTTP Server
+- Nmap
 - Git
 - GitHub
 
@@ -76,12 +80,12 @@ The purpose of this project is to document each experiment, troubleshoot real-wo
 ## Repository Structure
 
 ```text
-Cybersecurity-Home-Lab
+Cybersecurity-Home-Lab/
 │
-├── Documentation
-├── Screenshots
-├── Diagrams
-├── Notes
+├── Documentation/
+├── Screenshots/
+├── Diagrams/
+├── Notes/
 └── README.md
 ```
 
@@ -93,10 +97,17 @@ Cybersecurity-Home-Lab
 - Linux Command Line
 - File System Management
 - User and Group Administration
-- File Permissions
+- Linux Permissions
+- Package Management
 - SSH Remote Administration
+- Apache Web Server Administration
 - Virtualization
-- Networking
+- VirtualBox Networking
+- Static IP Configuration
+- Network Reconnaissance
+- Nmap
+- Service Enumeration
+- Operating System Fingerprinting
 - Technical Documentation
 - Git & GitHub
 
@@ -106,4 +117,4 @@ Cybersecurity-Home-Lab
 
 **Van Rhaven**
 
-This repository is part of my cybersecurity learning journey and serves as a portfolio of hands-on laboratory exercises.
+This repository documents my cybersecurity learning journey through practical laboratory exercises. Each experiment builds on the previous one, creating a complete home lab for learning Linux administration, networking, system security, and ethical hacking fundamentals.
