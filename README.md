@@ -44,12 +44,11 @@ The purpose of this project is to document each experiment, troubleshoot real-wo
 - ✅ Experiment 06 – Apache Web Server Deployment
 - ✅ Experiment 07 – Kali Linux Installation and Lab Network Configuration
 - ✅ Experiment 08 – Network Reconnaissance with Nmap
-
+- ✅ Experiment 09 – Deploying DVWA (Damn Vulnerable Web Application)
 ---
 
 ## Planned Experiments
 
-- ⏳ Experiment 09 – Deploying DVWA (Damn Vulnerable Web Application)
 - ⏳ Experiment 10 – Nikto Web Server Scanning
 - ⏳ Experiment 11 – Burp Suite Web Proxy
 - ⏳ Experiment 12 – SQL Injection Fundamentals
